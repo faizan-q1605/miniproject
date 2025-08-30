@@ -1,2 +1,2 @@
 # miniproject
-game
+game.
